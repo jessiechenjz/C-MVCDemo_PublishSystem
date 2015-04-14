@@ -1,0 +1,7 @@
+D:\CSharpWorkSpace\MvcStudy\DBUtility\bin\Debug\DBUtility.dll
+D:\CSharpWorkSpace\MvcStudy\DBUtility\bin\Debug\DBUtility.pdb
+D:\CSharpWorkSpace\MvcStudy\DBUtility\bin\Debug\MySql.Data.dll
+D:\CSharpWorkSpace\MvcStudy\DBUtility\bin\Debug\System.Data.SQLite.DLL
+D:\CSharpWorkSpace\MvcStudy\DBUtility\obj\Debug\DBUtility.dll
+D:\CSharpWorkSpace\MvcStudy\DBUtility\obj\Debug\DBUtility.pdb
+D:\CSharpWorkSpace\MvcStudy\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache

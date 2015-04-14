@@ -1,0 +1,4 @@
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Common\bin\Debug\MvcStudy.Common.dll
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Common\bin\Debug\MvcStudy.Common.pdb
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Common\obj\Debug\MvcStudy.Common.dll
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Common\obj\Debug\MvcStudy.Common.pdb

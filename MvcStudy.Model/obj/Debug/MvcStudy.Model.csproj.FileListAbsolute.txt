@@ -1,0 +1,4 @@
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Model\bin\Debug\MvcStudy.Model.dll
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Model\bin\Debug\MvcStudy.Model.pdb
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Model\obj\Debug\MvcStudy.Model.dll
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Model\obj\Debug\MvcStudy.Model.pdb

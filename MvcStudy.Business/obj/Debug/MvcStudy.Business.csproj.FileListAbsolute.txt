@@ -1,0 +1,16 @@
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Business\bin\Debug\MvcStudy.Business.dll
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Business\bin\Debug\MvcStudy.Business.pdb
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Business\bin\Debug\MvcStudy.Common.dll
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Business\bin\Debug\MvcStudy.Data.dll
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Business\bin\Debug\MvcStudy.Model.dll
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Business\bin\Debug\MvcStudy.Common.pdb
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Business\bin\Debug\MvcStudy.Data.pdb
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Business\bin\Debug\MvcStudy.Model.pdb
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Business\obj\Debug\MvcStudy.Business.csprojResolveAssemblyReference.cache
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Business\obj\Debug\MvcStudy.Business.dll
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Business\obj\Debug\MvcStudy.Business.pdb
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Business\bin\Debug\Maticsoft.Common.dll
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Business\bin\Debug\DBUtility.dll
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Business\bin\Debug\MySql.Data.dll
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Business\bin\Debug\DBUtility.pdb
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Business\bin\Debug\System.Data.SQLite.dll

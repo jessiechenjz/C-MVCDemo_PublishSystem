@@ -1,0 +1,7 @@
+D:\CSharpWorkSpace\MvcStudy\MoodSoft.DBUtility\bin\Debug\MySql.Data.dll
+D:\CSharpWorkSpace\MvcStudy\MoodSoft.DBUtility\bin\Debug\System.Data.SQLite.DLL
+D:\CSharpWorkSpace\MvcStudy\MoodSoft.DBUtility\bin\Debug\Maticsoft.DBUtility.dll
+D:\CSharpWorkSpace\MvcStudy\MoodSoft.DBUtility\bin\Debug\Maticsoft.DBUtility.pdb
+D:\CSharpWorkSpace\MvcStudy\MoodSoft.DBUtility\obj\Debug\Maticsoft.DBUtility.dll
+D:\CSharpWorkSpace\MvcStudy\MoodSoft.DBUtility\obj\Debug\Maticsoft.DBUtility.pdb
+D:\CSharpWorkSpace\MvcStudy\MoodSoft.DBUtility\obj\Debug\Maticsoft.DBUtility.csprojResolveAssemblyReference.cache

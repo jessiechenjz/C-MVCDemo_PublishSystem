@@ -1,0 +1,14 @@
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Data\bin\Debug\MvcStudy.Data.dll
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Data\bin\Debug\MvcStudy.Data.pdb
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Data\bin\Debug\MvcStudy.Common.dll
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Data\bin\Debug\MvcStudy.Model.dll
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Data\bin\Debug\MvcStudy.Common.pdb
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Data\bin\Debug\MvcStudy.Model.pdb
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Data\obj\Debug\MvcStudy.Data.csprojResolveAssemblyReference.cache
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Data\obj\Debug\MvcStudy.Data.dll
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Data\obj\Debug\MvcStudy.Data.pdb
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Data\bin\Debug\DBUtility.dll
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Data\bin\Debug\Maticsoft.Common.dll
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Data\bin\Debug\MySql.Data.dll
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Data\bin\Debug\System.Data.SQLite.DLL
+D:\CSharpWorkSpace\MvcStudy\MvcStudy.Data\bin\Debug\DBUtility.pdb
